@@ -27,6 +27,7 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 ![CMOS AND Gate](/AND_Gate.png)
 
 ## Implementation
+![CMOS AND Gate Schematic](/CMOS_AND_Gate_Schematic.png)
 
 
 
