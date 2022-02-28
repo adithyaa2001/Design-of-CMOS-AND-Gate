@@ -29,6 +29,10 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 ## Implementation
 ![CMOS AND Gate Schematic](/CMOS_AND_Gate_Schematic.jpg)
 
+## Simulation
+![CMOS AND Gate Simulation](/CMOS_AND_Gate_simulation.jpg)
+
+
 
 
 
