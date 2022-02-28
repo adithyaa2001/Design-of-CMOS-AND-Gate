@@ -20,4 +20,5 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 
 ## Reference Circuits
 
- 
+![CMOS Inverter](/assets/images/pic1.png)
+
