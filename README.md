@@ -41,7 +41,7 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 ## Simulation
 ![CMOS AND Gate Simulation](/CMOS_AND_Gate_simulation.jpg)
 
-From the above plots we can clearly see that the output is high if and only if both inputs are high.
+**From the above plots we can clearly see that the output is high if and only if both inputs are high**
 
 
 
