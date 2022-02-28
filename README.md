@@ -19,6 +19,6 @@ Digital Gates are one of the most fundamental building blocks of digital cirucit
 The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS inverter. The CMOS NAND Gate is implemented using a pull-up network consisting of 2 PMOS transistors in parallel and a pull-down network consisting of 2 NMOS transistors in series. Even if one of the 2 inputs to the NAND Gate become low one of the 2 PMOS transistors in parellel become on and they pull the output to logic high. On the other hand if both the inputs to the NAND Gate are high then the pull-down network becomes active and pulls to output to a logic low. The CMOS inverter outputs a high for a low input and a low for a high input. If we now feed the output of the CMOS NAND Gate to the CMOS inverter then the final output becomes high only if both the inputs to the circuit are high. Hence we have successfully implemented a CMOS AND Gate.
 
 ## Reference Circuits
-![CMOS Inverter](/main/pic1.png)
+![CMOS Inverter](/pic1.png)
 
 
