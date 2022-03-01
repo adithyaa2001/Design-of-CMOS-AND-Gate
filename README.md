@@ -7,7 +7,7 @@ This repositry presents the design of a CMOS AND Gate using Synopsys Custom Comp
 2. Working
 3. Reference Circuit
 4. Implementation
-5. Simulation Result
+5. Simulation 
 6. References
 7. Acknowledgements
 8. Author
@@ -42,6 +42,14 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 ![CMOS AND Gate Simulation](/CMOS_AND_Gate_simulation.jpg)
 
 **From the above plots we can clearly see that the output is high if and only if both inputs are high**
+
+## References
+Digital Integrated Circuits : A Design Perspective (Jan Rabaey and Anantha Chandrakasan)
+
+## Acknowledgements
+I would like to thank IIT Hyderabad, VSD and Synopsys for giving us this wonderfull opportunity to learn and grow
+
+
 
 
 
