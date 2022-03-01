@@ -55,7 +55,7 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 V.Adithyaa, 3rd year B.Tech Instrumentation and Control Engineering student at National Institute of Technology Trichy
 
 ## Acknowledgements
-I would like to thank IIT Hyderabad, VSD and Synopsys for giving me this wonderfull opportunity to learn and grow.
+* Kunal Ghosh
 
 ## References
 Digital Integrated Circuits : A Design Perspective (Jan Rabaey and Anantha Chandrakasan)
