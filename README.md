@@ -3,7 +3,7 @@ This repositry presents the design of a CMOS AND Gate using Synopsys Custom Comp
 
 ## Contents
 
-1. Introduction
+[1.Introduction](# 1.Introduction)
 2. Working
 3. Reference Circuit
 4. Implementation
@@ -55,7 +55,11 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 V.Adithyaa, 3rd year B.Tech Instrumentation and Control Engineering student at National Institute of Technology Trichy
 
 ## Acknowledgements
-* Kunal Ghosh
+* Kunal Ghosh, Co-founder, VSD Corp.Pvt.Ltd
+* Synopsys India
+* IIT Hyderabad
+* Sumanto Kar, IIT Bombay
+* Chinmaya Panda, IIT Hyderabad
 
 ## References
 Digital Integrated Circuits : A Design Perspective (Jan Rabaey and Anantha Chandrakasan)
