@@ -6,6 +6,7 @@ This repositry presents the design of a CMOS AND Gate using Synopsys Custom Comp
 * [Introduction](#Introduction)
 * [Working](#Working)
 * [Reference Circuits](#Reference-Circuits)
+* [Reference Waveforms](#Reference-Waveforms)
 * [Implementation](#Implementation)
 * [Simulation](#Simulation) 
 * [Netlist](#Netlist)
@@ -26,6 +27,9 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 ![CMOS NAND Gate](/CMOS_NAND_Gate.png)
 ### CMOS AND Gate Schematic
 ![CMOS AND Gate](/AND_Gate.png)
+
+## Reference Waveforms
+![Reference Waveforms](/Reference_Waveforms.pdf)
 
 ## Tools Used
 - Synopsys Custom Compiler
