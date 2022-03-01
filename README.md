@@ -29,7 +29,7 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 ![CMOS AND Gate](/AND_Gate.png)
 
 ## Reference Waveforms
-![Reference Waveforms](/Reference_Waveforms.pdf)
+![Reference Waveforms](/Reference_Waveforms.jpg)
 
 ## Tools Used
 - Synopsys Custom Compiler
