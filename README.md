@@ -5,7 +5,7 @@ This repositry presents the design of a CMOS AND Gate using Synopsys Custom Comp
 
 * [Introduction](#Introduction)
 * [Working](#Working)
-* [Reference Circuit](#Reference-Circuits)
+* [Reference Circuits](#Reference-Circuits)
 * [Implementation](#Implementation)
 * [Simulation](#Simulation) 
 * [Netlist](#Netlist)
