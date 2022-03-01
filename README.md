@@ -46,66 +46,10 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 
 ## Simulation
 ![CMOS AND Gate Simulation](/CMOS_AND_Gate_simulation.jpg)
+**From the above plots we can clearly see that the output is high if and only if both inputs are high**
 
 ## Netlist
-*  Generated for: PrimeSim
-*  Design library name: analog_ic_design
-*  Design cell name: and_gate
-*  Design view name: schematic
-.lib 'saed32nm.lib' TT
-
-*Custom Compiler Version S-2021.09
-*Tue Mar  1 10:29:58 2022
-
-.global gnd!
-********************************************************************************
-* Library          : analog_ic_design
-* Cell             : and_gate
-* View             : schematic
-* View Search List : hspice hspiceD schematic spice veriloga
-* View Stop List   : hspice hspiceD
-********************************************************************************
-xm14 vout net26 net25 net25 p105 w=0.24u l=0.03u nf=1 m=1
-xm1 net26 va net25 net25 p105 w=0.24u l=0.03u nf=1 m=1
-xm0 net26 vb net25 net25 p105 w=0.24u l=0.03u nf=1 m=1
-xm13 vout net26 gnd! gnd! n105 w=0.12u l=0.03u nf=1 m=1
-xm3 net13 vb gnd! gnd! n105 w=0.24u l=0.03u nf=1 m=1
-xm2 net26 va net13 net13 n105 w=0.24u l=0.03u nf=1 m=1
-v4 net25 gnd! dc=1.8
-v17 va gnd! dc=0 pulse ( 0 1.8 5m 0.01u 0.01u 5m 10m )
-v6 vb gnd! dc=0 pulse ( 0 1.8 10.01m 0.01u 0.01u 10m 20m )
-
-
-
-
-
-
-
-
-.tran '1u' '50m' name=tran
-
-.option primesim_remove_probe_prefix = 0
-.probe v(*) i(*) level=1
-.probe tran v(va) v(vout)
-
-.temp 25
-
-
-
-.option primesim_output=wdf
-
-
-.option parhier = LOCAL
-
-
-
-
-
-
-.end
-
-
-**From the above plots we can clearly see that the output is high if and only if both inputs are high**
+![NETLIST](/Netlist.png)
 
 ## Author
 V.Adithyaa, 3rd year B.Tech Instrumentation and Control Engineering student at National Institute of Technology Trichy
