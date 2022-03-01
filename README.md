@@ -67,7 +67,7 @@ V.Adithyaa, 3rd year B.Tech Instrumentation and Control Engineering student at N
 * Chinmaya Panda, IIT Hyderabad
 
 ## References
-Digital Integrated Circuits : A Design Perspective (Jan Rabaey and Anantha Chandrakasan)
+* Digital Integrated Circuits : A Design Perspective (Jan Rabaey and Anantha Chandrakasan)
 
 
 
