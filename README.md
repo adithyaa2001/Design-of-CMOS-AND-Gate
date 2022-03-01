@@ -41,7 +41,7 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 - Number of NMOS transistors used: 3
 - Number of PMOS transistors used: 3
 - The MOSFET model that has been chosen is the TT model from the 28nm PDK 
-- The W/L ratio of the NMOS transistor in the inverter: 0.12um/0.03um
+- The W/L ratio that has been chosen for the NMOS transistor in the inverter: 0.12um/0.03um
 - The W/L ratio that has been chosen for the NMOS transistors in the NAND Gate: 0.24u/0.03u
 - The W/L ratio that has been chosen for the PMOS transistor in the inverter: 0.24u/0.03u
 - The W/L ratio that has been chosen for the PMOS transistors in the NAND Gate: 0.24u/0.03u
