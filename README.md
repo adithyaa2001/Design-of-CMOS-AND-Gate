@@ -26,6 +26,11 @@ The CMOS AND Gate is implemented by combining the CMOS NAND Gate and the CMOS in
 ### CMOS AND Gate Schematic
 ![CMOS AND Gate](/AND_Gate.png)
 
+## Tools Used
+- Synopsys Custom Compiler
+- Synopsys Primewave
+- Synopsys 28nm PDK
+
 ## Implementation
 - Total number of transistors used : 6
 - Number of NMOS transistors used: 3
