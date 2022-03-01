@@ -3,8 +3,8 @@ This repositry presents the design of a CMOS AND Gate using Synopsys Custom Comp
 
 ## Contents
 
-[1.Introduction](#1.Introduction)
-2. Working
+[1.Introduction](#Introduction)
+[2. Working](#Working)
 3. Reference Circuit
 4. Implementation
 5. Simulation 
