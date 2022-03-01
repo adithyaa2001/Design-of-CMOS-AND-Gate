@@ -9,9 +9,9 @@ This repositry presents the design of a CMOS AND Gate using Synopsys Custom Comp
 * [Implementation](#Implementation)
 * [Simulation](#Simulation) 
 * [Netlist](#Netlist)
-* [References](#References)
-* [Acknowledgements](#Acknowledgements)
 * [Author](#Author)
+* [Acknowledgements](#Acknowledgements)
+* [References](#References)
 
 ## Introduction
 Digital Gates are one of the most fundamental building blocks of digital cirucits and nowadays digital circuits are present everywhere. This repositry presents the design, analysis and simulation of a CMOS AND Gate using Synopsys Custom Compiler on a 28nm PDK. An AND Gate is a digital logic gate which accepts 2 inputs and outputs a high if and only if both the inputs are high.CMOS is a specific fabrication technology where both NMOS and PMOS transistors used. Digital circuits implemented in CMOS technology are known for their effective use of electric power. They primarily only use power when switching from one state to another. 
